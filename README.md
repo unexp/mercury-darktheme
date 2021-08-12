@@ -4,9 +4,6 @@
 <h1 align="center">mercury-darktheme</h1>
 <h3 align="center">better than the current dark mode</h3>
 <h3 align="center">!!!! USE WITH LIGHT MODE !!!!</h3>
-<p align="center">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/unexp/mercury-darktheme?label=release">
-</p>
 <br><br>
 <h2 align="center">Installation</h2>
 <h3 align="center">get off ur fat ass and install stylus</h3>
