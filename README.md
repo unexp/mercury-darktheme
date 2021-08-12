@@ -11,8 +11,12 @@
 <br><br>
 <h2 align="center">Images</h2>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/69902477/129187526-0b6f86b2-258d-4abe-a61b-cc4d49e6ba80.png">
+    <img src="https://user-images.githubusercontent.com/69902477/129251770-946acb82-8045-4260-9859-99c350fe1f3f.png">
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/69902477/129187797-6c6ec912-38b8-4c45-8a07-9e0f943e7b35.png">
+    <img src="https://user-images.githubusercontent.com/69902477/129251858-1b210a86-be50-4536-9b68-7bc6b415da04.png">
+</p>
+</p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/69902477/129265407-657cf807-7bb4-4ad7-99d7-e5c35a31ea42.png">
 </p>
