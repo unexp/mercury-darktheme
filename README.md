@@ -1,2 +1,3 @@
 # mercury-darktheme
-dark theme for mercury
+
+## dark theme for mercury
