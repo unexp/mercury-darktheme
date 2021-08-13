@@ -26,17 +26,21 @@ body {
     border: 0px!important;
 }
 
-.card-body {
+.card-body,
+.page-item.active .page-link {
     background-color: #0d151e!important;
     color: #d4dae0!important;
     border-radius: 0px!important;
+    border-color: #0d151e!important;
 }
 
 .card-header,
-.card-footer {
+.card-footer,
+.page-link {
     background-color: #060d13!important;
     color: #d4dae0!important;
     border-radius: 0px!important;
+    border-color: #060d13!important;
 }
 
 .toggle-handle {
